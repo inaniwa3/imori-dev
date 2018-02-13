@@ -39,7 +39,7 @@ using OpenPose for Imori dance movie
     16: REar
     17: LEar
 
-![i001/keypoints_pose.png](i001/keypoints_pose.png "keypoints_pose.png")
+<img src="i001/keypoints_pose.png" width="260">
 
 ### References
 
