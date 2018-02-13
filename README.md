@@ -14,7 +14,7 @@ using OpenPose for Imori dance movie
 
 ### Motion Data (2D)
 
-[Download](i001/motion_data.zip "motion_data.zip")
+[Download](i001/motion_data.zip?raw=true "motion_data.zip")
 
 #### csv format
 
